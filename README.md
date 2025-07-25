@@ -8,6 +8,8 @@ Requirements:
 - Node.js version 20+ (check with: node -v)
 - Yarn package manager (install with: npm install -g yarn)
 
+*******************
+
 1. Open a terminal and clone the repo:
 
 ```
